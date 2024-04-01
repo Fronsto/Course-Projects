@@ -1,1 +1,16 @@
-
+# Course Projects
+1. [Tar Replica Shell Script](https://github.com/Fronsto/Tar_Replica_ShellScript)
+2. [RBT Implementation in C++](https://github.com/Fronsto/RBT_Custom-Implementation)
+3. [TicTacToe AI in Command line](https://github.com/Fronsto/TicTacToeGame)
+4. [Lab Assignments in DBMS Course](https://github.com/Fronsto/Database-Management-Lab)
+5. [Shell implementation in C](https://github.com/Fronsto/MiniShell_C)
+6. [Socket Programming from Scrach in C](https://github.com/Fronsto/Socket-Programming)
+7. [Assembly Assignments](https://github.com/Fronsto/Assembly-Assignments)
+8. [Compiler for NanoC](https://github.com/Fronsto/Compiler-for-NanoC)
+9. [TCP Implementation in C](https://github.com/Fronsto/Reliable-Transport-Layer)
+10. [Berkeley Algorithm in Prolog](https://github.com/Fronsto/Berkeley-Algorithm)
+11. [Smart Cycle IoT Project](https://github.com/Fronsto/Smart_Cycle)
+12. [Lab Assignments in OS](https://github.com/GunjanDhanuka/Operating-Systems-Lab)
+    - [Hybrid CPU Scheduling Algorithm](https://github.com/GunjanDhanuka/Operating-Systems-Lab/tree/master/Assign2)
+    - [Lazy Memory Allocation and Dynamic Page Swapping](https://github.com/GunjanDhanuka/Operating-Systems-Lab/tree/master/Assign3)
+    - [Quantitative Comparison of ZFS and EXT4 Filesystems](https://github.com/GunjanDhanuka/Operating-Systems-Lab/blob/master/Assign4/Assgn%204/report.pdf)

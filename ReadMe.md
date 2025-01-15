@@ -9,7 +9,7 @@
     - [Assembly Assignments](https://github.com/Fronsto/Assembly-Assignments)
     - [Compiler for NanoC](https://github.com/Fronsto/Compiler-for-NanoC)
 - Lab Assignments in Smart Systems Lab
-    - [Berkeley Algorithm in Prolog](https://github.com/Fronsto/Berkeley-Algorithm)
+    - [Berkeley Algorithm Implementation in Prolog](https://github.com/Fronsto/Berkeley-Algorithm)
     - [Smart Cycle (IoT Project)](https://github.com/Fronsto/Smart_Cycle)
 - Lab Assignments in OS
     - [Hybrid CPU Scheduling Algorithm in xv6](https://github.com/GunjanDhanuka/Operating-Systems-Lab/tree/master/Assign2)
@@ -18,3 +18,5 @@
 - Lab Assignments in Networks
     - [Socket Programming from Scrach in C](https://github.com/Fronsto/Socket-Programming)
     - [Reliable Transport over UDP in C](https://github.com/Fronsto/Reliable-Transport-Layer)
+- Lab Assignments in Computing with Signals
+    - [Analyzing Word2Vec embeddings by running k-means clustering](https://github.com/Fronsto/Word2Vec-Clustering-on-Subtitles)
